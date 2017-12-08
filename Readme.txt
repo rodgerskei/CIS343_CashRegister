@@ -1,4 +1,4 @@
-Created by Keith Rodgers & Alex Duncanson @2017
+ Created by Keith Rodgers & Alex Duncanson (github.com/alDuncanson) @2017
 
 To run, load the file (load "cash_register.scm")
 Start/Initialize with the statement (register 1 0)
